@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24-feb-2017, 19:01:57
+    Author     : JULIAN
+*/
+
+.titulo{
+    text-shadow: 0 0 10px #fff,
+                 0 0 20px #fff,
+                 0 0 30px #fff,
+                 0 0 40px yellow,
+                 0 0 70px yellow,
+                 0 0 80px yellow,
+                 0 0 100px yellow,
+                 0 0 150px yellow;
+    
+    font-family:cursive;        
+}
+
+.subtitulo{
+    font-family:fantasy;
+    color: black;
+}
+
